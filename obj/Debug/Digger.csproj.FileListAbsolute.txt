@@ -1,0 +1,16 @@
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\Images\Digger.png
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\Images\Gold.png
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\Images\Monster.png
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\Images\Sack.png
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\Images\Terrain.png
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\11-digger.exe.config
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\11-digger.exe
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\11-digger.pdb
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\11-digger.exe
+C:\Users\Spirit\Documents\Обучение\ulearnme\Inheritance\digger.csproj\obj\Debug\11-digger.pdb
